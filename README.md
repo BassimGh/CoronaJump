@@ -12,6 +12,6 @@ This game involves the player jumping up from platform to platform without falli
 ### How does it work?
 
 Platform objects are procedurally generated above the camera view as the player's 'y' position approaches the top of the screen.
-As this happens, every game object beneath the view are deleted.
+As this happens, every game object beneath the player's view are deleted.
 
 #### [Link to play the prototype](https://coronajumpv2.web.app)
