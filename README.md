@@ -2,7 +2,7 @@
  
 **A Covid-19 inspired mobile game**
 
-This project was created to learn/practice c++ and using the unity workflow. 
+This project was created to learn c# and unity. 
 At the time of creation the pandemic was in its early stages, hence the idea to make a game of a similar theme.
 
 ## The Game
