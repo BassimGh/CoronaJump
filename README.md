@@ -7,7 +7,7 @@ At the time of creation the pandemic was in its early stages, hence the idea to 
 
 ## The Game
 
-This game involves the player jumping up from platform to platform without falling while avoiding infected characters.
+Player jumps up from platform to platform without falling while avoiding infected characters.
 
 ### How does it work?
 
