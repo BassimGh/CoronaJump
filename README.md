@@ -15,3 +15,8 @@ Platform objects are procedurally generated above the camera view as the player'
 As this happens, every game object beneath the player's view are deleted.
 
 #### [Link to play the prototype](https://coronajumpv2.web.app)
+
+
+### Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67180268/164120157-6e311176-38a3-444d-b8d8-9a928de49331.gif)
+(Significant loss of quality during gif compression)
