@@ -19,4 +19,4 @@ As this happens, every game object beneath the player's view are deleted.
 
 ### Demo
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67180268/164120157-6e311176-38a3-444d-b8d8-9a928de49331.gif)
-(loss of quality during gif compression)
+*loss of quality during gif compression
