@@ -14,7 +14,7 @@ Player jumps up from platform to platform without falling while avoiding infecte
 Platform objects are procedurally generated above the camera view as the player's vertical position approaches the top of the screen.
 As this happens, every game object beneath the player's view are deleted.
 
-#### [Link to play the prototype](https://coronajumpv2.web.app)
+#### [Link to play the prototype](https://bassim.net/coronaJump/coronaJump.html)
 
 
 ### Demo
